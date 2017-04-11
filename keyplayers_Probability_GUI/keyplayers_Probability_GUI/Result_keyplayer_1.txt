@@ -1,0 +1,7 @@
+Suc anh huong cua dinh 2 toi cac dinh khac nhu sau:
+3 : 0.870139
+4 : 0.901175
+5 : 0.416667
+6 : 0.333333
+7 : 0.5
+

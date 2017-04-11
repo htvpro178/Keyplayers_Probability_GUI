@@ -1,0 +1,44 @@
+﻿Build started 10/2/2016 2:28:10 PM.
+     1>Project "E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\keyplayers_Probability_GUI\keyplayers_Probability_GUI.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\keyplayers_Probability_GUI.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\keyplayers_Probability_GUI.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt keyplayers_Probability_GUIDlg.cpp
+         keyplayers_Probability_GUIDlg.cpp
+     1>keyplayers_Probability_GUIDlg.cpp(278): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(287): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(311): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(315): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(468): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(493): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(714): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>keyplayers_Probability_GUIDlg.cpp(757): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+     1>keyplayers_Probability_GUIDlg.cpp(793): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+     1>keyplayers_Probability_GUIDlg.cpp(875): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+     1>keyplayers_Probability_GUIDlg.cpp(916): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\Release\keyplayers_Probability_GUI.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\keyplayers_Probability_GUI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\Release\keyplayers_Probability_GUI.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\Release\keyplayers_Probability_GUI.lib" /MACHINE:X86 Release\keyplayers_Probability_GUI.res
+         Release\keyplayers_Probability_GUI.obj
+         Release\keyplayers_Probability_GUIDlg.obj
+         Release\stdafx.obj
+         Generating code
+     1>e:\data\study\social network\coding\bao cao\source code\keyplayers_probability_gui\keyplayers_probability_gui\keyplayers_probability_guidlg.cpp(967): warning C4789: destination of memory copy is too small
+         Finished generating code
+         keyplayers_Probability_GUI.vcxproj -> E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\Release\keyplayers_Probability_GUI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\Release\keyplayers_Probability_GUI.exe;#1" /manifest Release\keyplayers_Probability_GUI.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\keyplayers_Probability_GUI.unsuccessfulbuild".
+         Touching "Release\keyplayers_Probability_GUI.lastbuildstate".
+     1>Done Building Project "E:\DATA\Study\social network\Coding\BAO CAO\Source Code\keyplayers_Probability_GUI\keyplayers_Probability_GUI\keyplayers_Probability_GUI.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.45
